@@ -1,0 +1,12 @@
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\bin\Debug\net5.0\FacebookPhishing.Domain.deps.json
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\bin\Debug\net5.0\FacebookPhishing.Domain.dll
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\bin\Debug\net5.0\FacebookPhishing.Domain.pdb
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.AssemblyInfo.cs
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.dll
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\refint\FacebookPhishing.Domain.dll
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\FacebookPhishing.Domain.pdb
+C:\Users\lasha\source\repos\FacebookPhishing\FacebookPhishing.Domain\obj\Debug\net5.0\ref\FacebookPhishing.Domain.dll
